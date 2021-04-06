@@ -1,0 +1,7 @@
+.o-imgMon{
+    height: 120px;
+    width: 120px;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+}

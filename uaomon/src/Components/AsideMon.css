@@ -1,0 +1,13 @@
+.o-container{
+    background:url('../Img/background-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 1em;
+    margin: 1em;
+    overflow: hidden; 
+    height: 100vh;
+}
+.o-container .o-img-Logo{
+    margin: .4em;
+}

@@ -1,0 +1,11 @@
+.o-background{
+    background-image: url("./background-image.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.o-align{
+    padding-top: 14rem;
+    align-self:center;
+}
